@@ -1,0 +1,22 @@
+{
+  "name": "saugat-parse",
+  "version": "1.0.0",
+  "description": "This is demo npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "saugat-parse"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaugatBhattarai/saugat-parse.git"
+  },
+  "keywords": [
+    "saugat-parse"
+  ],
+  "author": "Saugat Bhattarai",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SaugatBhattarai/saugat-parse/issues"
+  },
+  "homepage": "https://github.com/SaugatBhattarai/saugat-parse#readme"
+}
